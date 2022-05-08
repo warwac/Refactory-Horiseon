@@ -13,6 +13,7 @@ The purpose of this project is to change the provided code to make a more effici
 ### Links
 
 [link to the deployed website](https://warwac.github.io/Refactory-Horiseon/)
+
 [Link to the code repository](https://github.com/warwac/Refactory-Horiseon.git)
 
 ### Installation
