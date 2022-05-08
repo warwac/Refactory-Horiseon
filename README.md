@@ -4,10 +4,15 @@
 The purpose of this project is to change the provided code to make a more efficient and easily read website. To do so we were asked to use our existing refactoring and information gathering skills to affect the best outcome.
 
 # Accomplished Tasks
+
 -Attempted to keep the code as "dry" as possible, by eliminating existing redundancies.
+
 -Alt text was added
+
 -Explaining text was added to both CSS, and HTML
+
 -CSS was streamlined with class organization and alphabetical order
+
 -Added a descritptive title
 
 ### Links
