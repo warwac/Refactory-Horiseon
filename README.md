@@ -24,6 +24,9 @@ The purpose of this project is to change the provided code to make a more effici
 ### Installation
 index and assets folder uploaded to the deployed webserver. The CSS files and images are in the assets folder. The deployed website was deployed using GitHub pages.
 
+# Screenshot
+
+
 # References
 
 * [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
